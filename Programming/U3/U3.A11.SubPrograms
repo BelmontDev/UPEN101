@@ -3,9 +3,32 @@ Funcion Square(value)
 	Escribir "Digit the Value of One Side: "
 	Leer calc
 	
-	area = calc * calc
+	area = 6 * (calc * calc)
 	
 	vol = area * 3
+	
+	Escribir "The total area is : ",area
+	Escribir "The total Volume is : ",vol
+	
+Fin Funcion
+
+Funcion Triangle(value)
+	
+    Escribir "Digit the Base of the Triangle: "
+    Leer b
+    Escribir "Digit the Height of the Triangle: "
+    Leer h
+    Escribir "Digit the Side a of the Triangle: "
+    Leer a
+    Escribir "Digit the Side  c of the Triangle: "
+    Leer c
+    Escribir "Digit the Side of the Prism:"
+    Leer H
+	
+    // Calcular el área total con la fórmula simplificada
+    area <- (b * h) + ((a + b + c) * H)
+	
+	vol = area * lens
 	
 	Escribir "The total area is : ",area
 	Escribir "The total Volume is : ",vol
@@ -23,26 +46,9 @@ Funcion Rectangle(value)
 	Escribir "Digit the Value of the Lenght : "
 	Leer lens
 	
-	area = wid * hi
+	area = (2 * (lens * wid) ) + (2 * (lens + wid) * hi)
 	
 	vol = area * lens
-	
-	Escribir "The total area is : ",area
-	Escribir "The total Volume is : ",vol
-	
-Fin Funcion
-
-Funcion Triangle(value)
-	
-	Escribir "Digit the Value of the Base: "
-	Leer calc
-	
-	Escribir "Digit the Value of the Height: "
-	Leer high
-	
-	area = (calc * high) / 2
-	
-	vol = area * high
 	
 	Escribir "The total area is : ",area
 	Escribir "The total Volume is : ",vol
