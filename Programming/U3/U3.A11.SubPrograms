@@ -1,0 +1,123 @@
+Funcion Square(value)
+	
+	Escribir "Digit the Value of One Side: "
+	Leer calc
+	
+	area = calc * calc
+	
+	vol = area * 3
+	
+	Escribir "The total area is : ",area
+	Escribir "The total Volume is : ",vol
+	
+Fin Funcion
+
+Funcion Rectangle(value)
+	
+	Escribir "Digit the Value of the Height: "
+	Leer hi
+	
+	Escribir "Digit the Value of the Width: "
+	Leer wid
+	
+	Escribir "Digit the Value of the Lenght : "
+	Leer lens
+	
+	area = wid * hi
+	
+	vol = area * lens
+	
+	Escribir "The total area is : ",area
+	Escribir "The total Volume is : ",vol
+	
+Fin Funcion
+
+Funcion Triangle(value)
+	
+	Escribir "Digit the Value of the Base: "
+	Leer calc
+	
+	Escribir "Digit the Value of the Height: "
+	Leer high
+	
+	area = (calc * high) / 2
+	
+	vol = area * high
+	
+	Escribir "The total area is : ",area
+	Escribir "The total Volume is : ",vol
+	
+Fin Funcion
+
+
+Algoritmo task
+	
+	Escribir "Select an Option: [1] Cube [2] Triangular prism [3] Prism "
+	Leer value
+	
+	Si value = '1' Entonces
+		
+		Square("1");
+		
+	SiNo
+		
+		Si value = '2' Entonces
+			
+			Triangle("2");
+			
+		SiNo
+			
+			Si value = '3' Entonces
+				
+				Rectangle("3");
+				
+			SiNo
+				
+				Escribir "Did not choose any correct option ... Try again "
+				
+			Fin Si
+			
+		Fin Si
+		
+	Fin Si
+	
+	Escribir "Want to Repeat the Program ? [1] Yes [2] No "
+	Leer repeat
+	
+	Mientras repeat = '1' Hacer
+		
+		Escribir "Select an Option: [1] Cube [2] Triangular prism [3] Prism "
+		Leer value
+		
+		Si value = '1' Entonces
+			
+			Square("1");
+			
+		SiNo
+			
+			Si value = '2' Entonces
+				
+				Triangle("2");
+				
+			SiNo
+				
+				Si value = '3' Entonces
+					
+					Rectangle("3");
+					
+				SiNo
+					
+					Escribir "Did not choose any correct option ... Try again "
+					
+				Fin Si
+				
+			Fin Si
+			
+		Fin Si
+		
+		Escribir "Want to Repeat the Program ? [1] Yes [2] No "
+		Leer repeat
+		
+	Fin Mientras
+	
+FinAlgoritmo
