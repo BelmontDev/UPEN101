@@ -15,30 +15,32 @@ The course introduces students to the foundations of programming, including prob
 
 ---
 
-## **Unit 1 – Basics of Programming**  
+## **Unit 1 – Algorithms**  
 
 ### 📌 **Description of the Unit:**  
-In this unit, concepts such as **variables, data types, input/output, and basic control structures (loops and conditionals)** are covered. These topics lay the foundation for understanding how programs work and how to structure them efficiently.
+In this unit, we explored algorithms, focusing on their design, efficiency, and problem-solving approach. We examined how algorithms are structured, analyzed their performance, and learned techniques to develop effective solutions for various computational problems.
 
 ### 🔗 **Codes of this Unit:**  
 [Unit 1 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/Programming/U1)
 
 ---
 
-## **Unit 2 – Functions and Modularization**  
+## **Unit 2 – Control Structures & Loops **  
 
 ### 📌 **Description of the Unit:**  
-This unit focuses on **functions, parameters, return values, and modular programming**. It helps learn how to write reusable code and structure programs effectively.
+In this unit, we focused on developing algorithms using PSeInt, emphasizing control structures such as `if`, `if-else`, and loops. We explored different types of loops, including `while` and `for`, understanding their applications and efficiency in iterative processes. By implementing loops, we learned how to automate repetitive tasks, optimize algorithm performance, and enhance problem-solving strategies.
 
 ### 🔗 **Codes of this Unit:**  
 [Unit 2 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/Programming/U2)
 
 ---
 
-## **Unit 3 – Data Structures and Algorithms**  
+## **Unit 3 – GITHUB**  
 
 ### 📌 **Description of the Unit:**  
-Learn about **arrays, lists, searching and sorting algorithms**, and how data structures affect performance and efficiency.
+In this unit, we learned how to use GitHub for version control and collaboration. We explored key concepts such as repositories, commits, branches, forks, merges, and pull requests, gaining an understanding of how multiple developers can work on a project simultaneously.
+
+We practiced creating and managing branches to develop features separately without affecting the main code. We also learned how to use forks to contribute to projects outside our own repositories. Additionally, we worked with merging and resolving conflicts, ensuring smooth integration of changes.
 
 ### 🔗 **Codes of this Unit:**  
 [Unit 3 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/Programming/U3)
