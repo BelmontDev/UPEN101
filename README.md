@@ -17,7 +17,7 @@ The course introduces students to the foundations of programming, including prob
 
 ## **Unit 1 – Basics of Programming**  
 
-### 📌 **Brief Description of the Unit:**  
+### 📌 **Description of the Unit:**  
 In this unit, concepts such as **variables, data types, input/output, and basic control structures (loops and conditionals)** are covered. These topics lay the foundation for understanding how programs work and how to structure them efficiently.
 
 ### 🔗 **Codes of this Unit:**  
@@ -27,8 +27,8 @@ In this unit, concepts such as **variables, data types, input/output, and basic 
 
 ## **Unit 2 – Functions and Modularization**  
 
-### 📌 **Brief Description of the Unit:**  
-This unit focuses on **functions, parameters, return values, and modular programming**. It helps students learn how to write reusable code and structure programs effectively.
+### 📌 **Description of the Unit:**  
+This unit focuses on **functions, parameters, return values, and modular programming**. It helps learn how to write reusable code and structure programs effectively.
 
 ### 🔗 **Codes of this Unit:**  
 [Unit 2 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/Programming/U2)
@@ -37,8 +37,8 @@ This unit focuses on **functions, parameters, return values, and modular program
 
 ## **Unit 3 – Data Structures and Algorithms**  
 
-### 📌 **Brief Description of the Unit:**  
-Students will learn about **arrays, lists, searching and sorting algorithms**, and how data structures affect performance and efficiency.
+### 📌 **Description of the Unit:**  
+Learn about **arrays, lists, searching and sorting algorithms**, and how data structures affect performance and efficiency.
 
 ### 🔗 **Codes of this Unit:**  
 [Unit 3 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/Programming/U3)
