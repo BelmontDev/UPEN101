@@ -31,7 +31,7 @@ In this unit, concepts such as **variables, data types, input/output, and basic 
 This unit focuses on **functions, parameters, return values, and modular programming**. It helps students learn how to write reusable code and structure programs effectively.
 
 ### 🔗 **Codes of this Unit:**  
-[Unit 2 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/Unit2)
+[Unit 2 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/Programming/U2)
 
 ---
 
@@ -41,4 +41,4 @@ This unit focuses on **functions, parameters, return values, and modular program
 Students will learn about **arrays, lists, searching and sorting algorithms**, and how data structures affect performance and efficiency.
 
 ### 🔗 **Codes of this Unit:**  
-[Unit 3 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/Unit3)
+[Unit 3 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/Programming/U3)
