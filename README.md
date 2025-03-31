@@ -1,6 +1,6 @@
 # 📘 UPEN101 – Introduction to Programming
 
-![Cover Image](https://source.unsplash.com/800x400/?software,programming)
+![Cover Image](https://images.pexels.com/photos/31343632/pexels-photo-31343632/free-photo-of-visualizacion-de-codigo-javascript-colorido-en-pantalla.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ## **Subject:** Introduction to Programming  
 **Full Name:** Gilberto Lomeli Ulloa 
