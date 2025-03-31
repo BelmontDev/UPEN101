@@ -11,7 +11,7 @@
 ---
 
 ### 📖 **Description of the Subject:**  
-The course introduces students to the foundations of programming, including problem-solving approaches, algorithm development, and programming in structured languages. It provides hands-on experience to develop logical thinking and problem-solving skills that are essential for software development.
+The course introduces students to the foundations of programming, including problem-solving approaches, algorithm development. It provides hands-on experience to develop logical thinking and problem-solving skills that are essential for software development.
 
 ---
 
