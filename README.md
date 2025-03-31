@@ -25,7 +25,7 @@ In this unit, we explored algorithms, focusing on their design, efficiency, and 
 
 ---
 
-## **Unit 2 – Control Structures & Loops **  
+## **Unit 2 – Control Structures & Loops**  
 
 ### 📌 **Description of the Unit:**  
 In this unit, we focused on developing algorithms using PSeInt, emphasizing control structures such as `if`, `if-else`, and loops. We explored different types of loops, including `while` and `for`, understanding their applications and efficiency in iterative processes. By implementing loops, we learned how to automate repetitive tasks, optimize algorithm performance, and enhance problem-solving strategies.
