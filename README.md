@@ -21,7 +21,7 @@ The course introduces students to the foundations of programming, including prob
 In this unit, concepts such as **variables, data types, input/output, and basic control structures (loops and conditionals)** are covered. These topics lay the foundation for understanding how programs work and how to structure them efficiently.
 
 ### 🔗 **Codes of this Unit:**  
-[Unit 1 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/U1)
+[Unit 1 Code Repository](https://github.com/BelmontDev/UPEN101/tree/main/Programming/U1)
 
 ---
 
